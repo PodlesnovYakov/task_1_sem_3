@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1631800338 source:c:\users\30041203\desktop\c++ projects\task_1_sem_3\main.cpp
+	"ClNode.h"
+	"ClEdge.h"
+	<ClGraph.h>
+
+1631794046 source:c:\users\30041203\desktop\c++ projects\task_1_sem_3\src\cledge.cpp
+	"ClEdge.h"
+
+1631794046 c:\users\30041203\desktop\c++ projects\task_1_sem_3\include\cledge.h
+	<ClLine.h>
+
+1631734110 c:\users\30041203\desktop\c++ projects\task_1_sem_3\include\clline.h
+	<ClDraw.h>
+
+1631181673 c:\users\30041203\desktop\c++ projects\task_1_sem_3\include\cldraw.h
+	<cstdlib>
+	<iostream>
+	<graphics.h>
+
+1631799019 source:c:\users\30041203\desktop\c++ projects\task_1_sem_3\src\clline.cpp
+	"ClLine.h"
+
+1631623950 c:\users\30041203\desktop\c++ projects\task_1_sem_3\include\clnode.h
+	"ClCircle.h"
+
+1631625247 c:\users\30041203\desktop\c++ projects\task_1_sem_3\include\clcircle.h
+	"ClDraw.h"
+
+1631736769 source:c:\users\30041203\desktop\c++ projects\task_1_sem_3\src\clcircle.cpp
+	"ClCircle.h"
+
+1631793846 source:c:\users\30041203\desktop\c++ projects\task_1_sem_3\src\clnode.cpp
+	"ClNode.h"
+
+1632994974 source:c:\users\30041203\desktop\c++ projects\task_1_sem_3\src\clgraph.cpp
+	"ClGraph.h"
+	"ClNode.h"
+	"ClEdge.h"
+	<ctime>
+
+1632857940 c:\users\30041203\desktop\c++ projects\task_1_sem_3\include\clgraph.h
+	"ClNode.h"
+	"ClEdge.h"
+	<ClDraw.h>
+
